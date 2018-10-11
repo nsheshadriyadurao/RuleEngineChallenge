@@ -1,0 +1,5 @@
+[{"signal": "ATL2", "value_type": "String", "value": "HIrGH"},
+ {"signal": "ATL9", "value_type": "Datetime", "value": "2019-06-13 22:40:10"},
+ {"signal": "ATL5", "value_type": "Datetime", "value": "2019-07-21 20:20:21"},
+ {"signal": "ATL4", "value_type": "Integer", "value": "56474"},
+ {"signal": "ATL10", "value_type": "String", "value": "LhOW"},
